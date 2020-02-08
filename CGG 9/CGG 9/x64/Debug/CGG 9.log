@@ -1,0 +1,4 @@
+﻿  ChildView.cpp
+d:\subject\игил2\кгиг\cgg 9\cgg 9\childview.cpp(132): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 9\cgg 9\childview.cpp(144): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  CGG 9.vcxproj -> D:\Subject\Игил2\КГиГ\CGG 9\x64\Debug\CGG 9.exe

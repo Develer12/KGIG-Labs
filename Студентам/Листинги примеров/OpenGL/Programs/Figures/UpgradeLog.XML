@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Figures">
+</Property><Property Name="Solution File" Value="D:\DTK\P_VSN_2010\P_VC\ISiT\OpenGL\Programs\Figures\Figures.sln">
+</Property><Property Name="Date" Value="29 февраля 2012 г.">
+</Property><Property Name="Time" Value="16:34">
+</Property></Properties><Event ErrorLevel="0" Project="Figures" Source="Figures\Figures.vcproj" Description="Converting project file 'D:\DTK\P_VSN_2010\P_VC\ISiT\OpenGL\Programs\Figures\Figures\Figures.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Figures" Source="Figures\Figures.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Figures" Source="Figures\Figures.vcproj" Description="Done converting to new project file 'D:\DTK\P_VSN_2010\P_VC\ISiT\OpenGL\Programs\Figures\Figures\Figures.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Figures" Source="Figures\Figures.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Figures.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Figures.sln" Description="Converted">
+</Event></UpgradeLog>

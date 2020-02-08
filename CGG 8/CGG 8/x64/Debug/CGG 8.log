@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  CGG 8.cpp
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(32): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(33): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CMatrix.cpp
+d:\subject\игил2\кгиг\cgg 8\cgg 8\cmatrix.cpp(366): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ChildView.cpp
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(32): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(33): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.cpp(164): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.cpp(165): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.cpp(166): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.cpp(188): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.cpp(192): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LibChart2D.cpp
+d:\subject\игил2\кгиг\cgg 8\cgg 8\libchart2d.cpp(202): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(32): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(33): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\subject\игил2\кгиг\cgg 8\cgg 8\childview.h(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  CGG 8.vcxproj -> D:\Subject\Игил2\КГиГ\CGG 8\x64\Debug\CGG 8.exe
